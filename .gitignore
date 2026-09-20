@@ -1,0 +1,14 @@
+﻿data/
+checkpoints/
+*.zip
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.mp4
+*.avi
+*.mov
+__pycache__/
+*.pyc
+.env
+.env.*

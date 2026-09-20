@@ -1,0 +1,2 @@
+clients,alpha,stages,rounds_per_stage,local_epochs,final_avg_accuracy,final_avg_macro_f1,avg_forgetting_pp,bwt_pp
+2,0.5,5,1,1,49.956955619348115,53.3569619325556,48.70477744689376,-48.70477744689376

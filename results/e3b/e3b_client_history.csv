@@ -1,0 +1,5 @@
+stage,round,client,partition_samples,effective_samples,loss,ce_loss,prototype_loss,prototype_guided_samples
+1,1,1,888,10,4.4888671875,4.4888671875,0.0,0
+1,1,2,1045,10,4.78125,4.78125,0.0,0
+2,1,1,988,10,4.822265625,4.822265625,0.0,0
+2,1,2,928,10,4.496875,4.496875,0.0,0

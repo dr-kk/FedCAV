@@ -1,0 +1,2 @@
+clients,alpha,stages,rounds_per_stage,local_epochs,lambda_replay,replay_batch,prototypes_per_class,final_avg_accuracy,final_avg_macro_f1,avg_forgetting_pp,bwt_pp,final_prototypes,prototype_classes,prototype_memory_mib
+2,0.5,5,1,1,1.0,32,10,59.974698901228955,63.01292418848068,35.57873569854317,-35.57873569854317,1010,101,2.958984375

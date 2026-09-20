@@ -1,0 +1,15 @@
+FedCAV E1 Dense TimeSformer Profile
+==================================================
+Parameters_M: 121.336421
+Frames: 8
+Resolution: 224
+Tokens_per_frame: 196
+Patch_tokens_clip: 1568
+Tokens_including_CLS: 1569
+Peak_GPU_allocated_MB: 785.8755
+Peak_GPU_reserved_MB: 808.0000
+Mean_latency_ms: 105.209040
+Median_latency_ms: 93.146150
+P95_latency_ms: 200.317805
+P99_latency_ms: 245.502754
+Throughput_clips_s: 9.504887

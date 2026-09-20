@@ -1,0 +1,2 @@
+dataset,split,backbone,frames,resolution,total_params_M,trainable_params_M,top1,macro_f1
+UCF101,Split1,TimeSformer-B,8,224,121.336421,20.162405,93.15358181337562,93.06110816617839

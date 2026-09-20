@@ -1,0 +1,2 @@
+final_avg_accuracy,final_avg_macro_f1,avg_forgetting_pp,bwt_pp,prototypes_per_class,final_prototypes,memory_mib,memory_mb
+65.55422541584826,69.20904543854712,39.09364270169811,-39.09364270169811,10,1010,2.9666900634765625,3.1108

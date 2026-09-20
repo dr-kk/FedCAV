@@ -1,0 +1,5 @@
+stage,round,client,partition_samples,effective_samples,total_loss,current_loss,replay_loss,replay_steps,replay_samples
+1,1,1,888,10,4.4888671875,4.4888671875,0.0,0,0
+1,1,2,1045,10,4.78125,4.78125,0.0,0,0
+2,1,1,988,10,9.434033203125,4.822265625,4.611767578125,5,160
+2,1,2,928,10,9.1087890625,4.496875,4.6119140625,5,160

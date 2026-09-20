@@ -1,0 +1,2 @@
+clients,alpha,stages,final_avg_accuracy,final_avg_macro_f1,avg_forgetting_pp,bwt_pp,prototypes_per_class,final_prototypes,prototype_memory_mib
+2,0.5,2,11.25,0.9183673469387756,12.5,-12.5,10,160,0.46875
