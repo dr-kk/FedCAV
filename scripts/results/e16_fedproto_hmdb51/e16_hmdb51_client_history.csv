@@ -1,0 +1,3 @@
+stage,round,client,partition_samples,loss,ce_loss,proto_loss,aligned_samples,seen_samples
+1,1,1,336,4.26025390625,4.26025390625,0.0,0,4
+1,1,2,364,3.70654296875,3.70654296875,0.0,0,4

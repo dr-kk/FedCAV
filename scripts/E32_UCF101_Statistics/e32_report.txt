@@ -1,0 +1,29 @@
+E32 UCF101 paired analysis (n=3; seeds 42,7,123)
+Values manually transcribed from completed E30/E31 logs.
+Confidence intervals: two-sided Student t, df=2, unadjusted.
+p-values: two-sided paired t-tests, unadjusted for multiple comparisons.
+Small n; do not interpret non-significance as equivalence.
+
+FedAvg                 accuracy       52.305 +/-   2.193  CI95 [  46.858,   57.752]
+FedAvg                 macro_f1       55.490 +/-   1.849  CI95 [  50.898,   60.083]
+FedAvg                 forgetting     45.198 +/-   3.222  CI95 [  37.194,   53.202]
+FedProx                accuracy       52.348 +/-   2.375  CI95 [  46.449,   58.246]
+FedProx                macro_f1       55.574 +/-   1.963  CI95 [  50.698,   60.450]
+FedProx                forgetting     44.989 +/-   3.308  CI95 [  36.772,   53.206]
+FixedPrototypeReplay   accuracy       60.132 +/-   0.465  CI95 [  58.977,   61.287]
+FixedPrototypeReplay   macro_f1       63.076 +/-   0.162  CI95 [  62.675,   63.478]
+FixedPrototypeReplay   forgetting     34.646 +/-   2.278  CI95 [  28.987,   40.305]
+FedCAV                 accuracy       60.670 +/-   1.362  CI95 [  57.286,   64.055]
+FedCAV                 macro_f1       63.809 +/-   1.109  CI95 [  61.055,   66.564]
+FedCAV                 forgetting     32.818 +/-   1.227  CI95 [  29.770,   35.867]
+
+Paired FedCAV improvement (positive = better):
+vs FedAvg                 accuracy     improvement  +8.365 pp, CI95 [  +2.194,  +14.537], p=0.02816
+vs FedAvg                 macro_f1     improvement  +8.319 pp, CI95 [  +2.100,  +14.538], p=0.02888
+vs FedAvg                 forgetting   improvement +12.379 pp, CI95 [  +5.574,  +19.185], p=0.01594
+vs FedProx                accuracy     improvement  +8.323 pp, CI95 [  +2.032,  +14.613], p=0.02950
+vs FedProx                macro_f1     improvement  +8.236 pp, CI95 [  +2.011,  +14.461], p=0.02950
+vs FedProx                forgetting   improvement +12.171 pp, CI95 [  +4.842,  +19.499], p=0.01903
+vs FixedPrototypeReplay   accuracy     improvement  +0.538 pp, CI95 [  -1.977,   +3.054], p=0.45435
+vs FixedPrototypeReplay   macro_f1     improvement  +0.733 pp, CI95 [  -1.755,   +3.221], p=0.33261
+vs FixedPrototypeReplay   forgetting   improvement  +1.828 pp, CI95 [  -0.826,   +4.482], p=0.09747

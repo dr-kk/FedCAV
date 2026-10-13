@@ -1,0 +1,2 @@
+clients,alpha,stages,lambda_replay,replay_batch,mu_prox,drift_gamma,drift_beta,drift_scale,mu_min,mu_max,final_avg_accuracy,final_avg_macro_f1,avg_forgetting_pp,bwt_pp,prototype_memory_mib
+5,0.1,5,1.0,32,0.001,25.0,0.9,1000000.0,0.02,0.5,53.1319294195495,56.22944760681073,6.691110669439919,-6.392702181376258,2.958984375

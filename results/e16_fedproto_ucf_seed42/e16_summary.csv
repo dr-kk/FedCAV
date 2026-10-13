@@ -1,0 +1,2 @@
+clients,alpha,seed,proto_lambda,final_avg_accuracy,final_avg_f1,avg_forgetting,bwt,prototype_classes
+2,0.5,42,1.0,42.250517659900105,43.96015214352077,51.15774080460024,-51.15774080460024,101
