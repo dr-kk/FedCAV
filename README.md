@@ -6,7 +6,7 @@
 
 
 
-Official research and reproducibility repository for the FedCAV manuscript prepared for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+Official research and reproducibility repository for the FedCAV  
 
 
 
